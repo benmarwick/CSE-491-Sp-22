@@ -1,4 +1,5 @@
 install.packages("tidyverse")
+install.packages("bookdown")
 install.packages("rmarkdown")
 install.packages("httr")
 install.packages("shinydashboard")
