@@ -1,6 +1,6 @@
 install.packages("tidyverse")
 install.packages("bookdown")
 install.packages("rmarkdown")
-install.packages("httr")
+install.packages("git2r")
 install.packages("shinydashboard")
 install.packages('leaflet')
