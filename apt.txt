@@ -1,3 +1,2 @@
 libgit2-dev
-libgit2-devel
 libssl-dev
